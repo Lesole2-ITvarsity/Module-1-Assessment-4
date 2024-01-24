@@ -1,0 +1,11 @@
+th{
+    font-weight: 800;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    color: black
+}
